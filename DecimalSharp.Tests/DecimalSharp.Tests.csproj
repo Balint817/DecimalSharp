@@ -16,7 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DecimalSharp.Light\DecimalSharp.Light.csproj" />
     <ProjectReference Include="..\DecimalSharp\DecimalSharp.csproj" />
   </ItemGroup>
 
