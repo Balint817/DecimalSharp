@@ -19,6 +19,7 @@
 	  <PackageTags>decimal, arbitrary-precision, bigdecimal, bignumber, significant-digits, trigonometric-functions, decimal-places</PackageTags>
 	  <PackageLicenseFile>LICENSE</PackageLicenseFile>
 	  <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+	  <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
 
 	<ItemGroup>
